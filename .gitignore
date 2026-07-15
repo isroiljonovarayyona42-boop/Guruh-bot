@@ -1,0 +1,32 @@
+# ══════════════════════════════════════
+# MUHIM: Bu fayllar HECH QACHON yuklanmasin!
+# ══════════════════════════════════════
+
+# Maxfiy ma'lumotlar (TOKEN, ID'lar)
+.env
+
+# Ma'lumotlar bazasi
+data/bot.db
+data/bot.db-journal
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE sozlamalari
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS fayllari
+Thumbs.db
+.DS_Store
+desktop.ini
